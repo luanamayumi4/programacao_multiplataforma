@@ -3,7 +3,7 @@
 Neste repositório você pode encontrará um exercício desenvolvido para a matéria de  Programação Multiplataforma. 
 
 <img src = "https://github.com/luanamayumi4/free_images/blob/main/task_icon.png"
- width="500px"/>
+ width="450px"/>
 
 **Objetivo:** Desenvolver um sistema de gerenciamento de tarefas utilizando FastAPI, aplicando os conceitos de controllers, services e repositories
 
