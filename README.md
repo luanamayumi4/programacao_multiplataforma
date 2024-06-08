@@ -2,7 +2,8 @@
 
 Neste repositório você pode encontrará um exercício desenvolvido para a matéria de  Programação Multiplataforma. 
 
-<a href="https://www.flaticon.com/free-icons/project" title="project icons">Project icons created by Freepik - Flaticon</a>
+<img src = "https://github.com/luanamayumi4/free_images/blob/main/task_icon.png"
+ width="500px"/>
 
 **Objetivo:** Desenvolver um sistema de gerenciamento de tarefas utilizando FastAPI, aplicando os conceitos de controllers, services e repositories
 
