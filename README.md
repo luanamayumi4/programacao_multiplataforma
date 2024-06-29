@@ -14,3 +14,5 @@ Neste repositório você pode encontrará um exercício desenvolvido para a mat�
 **Plataforma de Desenvolvimento:** Anaconda
 
 **IDE:** Visual Studio Code
+
+**Principal referência: https://github.com/souluanf/fastapi-task-management**
