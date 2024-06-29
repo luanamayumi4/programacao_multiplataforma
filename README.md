@@ -9,10 +9,4 @@ Neste repositório você encontrará um exercício desenvolvido para a matéria 
 
 **Descrição do Projeto:** O projeto consiste em criar uma API para gerenciamento de tarefas que permite a criação, leitura, atualização e exclusão de tarefas. Cada tarefa deve ter um título, descrição, status e data de criação
 
-**Linguagem:** Python
-
-**Plataforma de Desenvolvimento:** Anaconda
-
-**IDE:** Visual Studio Code
-
 **Principal referência: https://github.com/souluanf/fastapi-task-management**
