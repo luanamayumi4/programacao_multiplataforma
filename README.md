@@ -1,6 +1,6 @@
 # Programação Multiplataforma
 
-Neste repositório você pode encontrará um exercício desenvolvido para a matéria de  Programação Multiplataforma. 
+Neste repositório você encontrará um exercício desenvolvido para a matéria de Programação Multiplataforma. 
 
 <img src = "https://github.com/luanamayumi4/free_images/blob/main/task_icon.png"
  width="350px"/>
